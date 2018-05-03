@@ -1,9 +1,10 @@
-## Unreleased
+## [4.11.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.11.2)
 
 ### Enhancements
 
-* Update Font Awesome to version `5.0.9`. [#1605](https://github.com/mmistakes/minimal-mistakes/pull/1605)
+* Update Font Awesome to version [`5.0.12`](https://github.com/FortAwesome/Font-Awesome/blob/master/CHANGELOG.md).
 * Add Slovak localized UI text strings. [#1613](https://github.com/mmistakes/minimal-mistakes/pull/1613)
+* Add option to anonymize IP addresses of hits sent to Google Analytics. [#1636](https://github.com/mmistakes/minimal-mistakes/pull/1636)
 
 ### Bug Fixes
 

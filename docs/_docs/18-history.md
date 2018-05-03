@@ -4,16 +4,17 @@ permalink: /docs/history/
 excerpt: "Change log of enhancements and bug fixes made to the theme."
 sidebar:
   nav: docs
-last_modified_at: 2018-04-10T08:42:49-04:00
+last_modified_at: 2018-05-03T19:31:32-04:00
 toc: true
 ---
 
-## Unreleased
+## [4.11.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.11.2)
 
 ### Enhancements
 
-* Update Font Awesome to version `5.0.9`. [#1605](https://github.com/mmistakes/minimal-mistakes/pull/1605)
+* Update Font Awesome to version `5.0.11`. [#1605](https://github.com/mmistakes/minimal-mistakes/pull/1620)
 * Add Slovak localized UI text strings. [#1613](https://github.com/mmistakes/minimal-mistakes/pull/1613)
+* Add option to anonymize IP addresses of hits sent to Google Analytics. [#1636](https://github.com/mmistakes/minimal-mistakes/pull/1636)
 
 ### Bug Fixes
 
